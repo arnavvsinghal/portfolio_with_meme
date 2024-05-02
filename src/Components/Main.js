@@ -14,7 +14,7 @@ export default function Navbar() {
         </div>
         <div className="box1">
           <div className="chota_box1">
-            <h3 className="main--text1">Myself Jiya Kumawat</h3>
+            <h3 className="main--text1">Myself Ayush</h3>
           </div>
         </div>
       </div>
